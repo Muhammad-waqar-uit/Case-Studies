@@ -1,0 +1,15 @@
+import turtle
+s=turtle.Screen()
+t=turtle.Turtle()
+t.speed(20000)
+t.left(45)
+t.forward(100)
+t.left(90)
+t.forward(50)
+t.left(45)
+t.forward(50)
+t.left(45)
+t.forward(50)
+t.left(90)
+t.forward(100)
+#diamond
